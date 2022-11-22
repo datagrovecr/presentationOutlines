@@ -3,12 +3,13 @@
 As new developers join the Datagrove team, we want to be able to update them on current projects and technologies. This repo will be used to collect presentation outlines and other related information.
 
 ## Presentations Should Include:
-- A set of slides or similar visual representation, including screenshots and other images
-- Outline of what your feature is and why it is important to Datagrove
+- Description of your feature or project 
+- Why the project is important to Datagrove
 - Details including:
    * Language/Framework
    * Packages
    * Development Plan (Features to be implemented/included)
+- A set of slides or similar visual representation, including screenshots and other images
 
 ## Presentation Outlines:
 - Outline the content that you will cover in your presentation in a md file named `yourName_Dec1.md`
