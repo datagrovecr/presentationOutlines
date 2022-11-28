@@ -14,7 +14,7 @@ As new developers join the Datagrove team, we want to be able to update them on 
 ## Presentation Outlines:
 - Outline the content that you will cover in your presentation in a md file named `yourName_Dec1.md`
 - Include screenshots and other images that you will use during your presentation
-- Push your outline to the Dec. 1 folder in the repo
+- Make a pull request with your outline to the Dec. 1 folder in the repo
 - Rachael and Meagan will give you feedback on your outline and then you can create slides using the outline content
 
 | Presentation Opportunity | Outline Due | Presentation Due | Presentation Date |
