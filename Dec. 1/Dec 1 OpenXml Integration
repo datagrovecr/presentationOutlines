@@ -1,0 +1,22 @@
+# OpenXML Integration
+## Translation from .docx to .md
+
+### About the project
+The main objective of this feature is to translate .docx and .md formats, analyzing text (could be xml or .md files) and extracting details that could help you to differentiate every type of paragraph in order to be able to format them in the desired way.	
+
+### Importance to Datagrove
+All the software we found with this functionality was Proprietary software, Datagrove wants it to be open source for the community.
+
+### Langauges/Frameworks Used
+- C#
+- .NET
+
+### Packages Used
+- Markdig
+
+### Features to be Developed
+- BlockQuotes 
+- Break lines/new lines
+- Bullet Lists (Missing .docx to md)
+- Code blocks (Missing .docx to md)
+- Check box lists (Missing .docx to md)
